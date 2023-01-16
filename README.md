@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevhamilton
 - 👀 I’m interested in data analytics.  
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on entry-level data projects. 
+- 🌱 I’m currently learning AWS as a Cloud Practitioner, and practicing SQL 
+- 💞️ I’m looking to collaborate on entry -level data projects. 
 - 📫 How to reach me at my email: kwhamilton@gmail.com
 
 <!---
